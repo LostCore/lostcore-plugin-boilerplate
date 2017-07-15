@@ -13,7 +13,6 @@ The WordPress Plugin Boilerplate includes the following files:
 
 ## Features
 
-* The Boilerplate is a more opinionated fork of the [DevinVinson's one](http://wppb.io/), and supports all the features of its parent project.
 * Namespaced structure: there is no need to rename the files anymore.
 * Gulp, sass, browserify support. There is a "build task" also included.
 * Browserify enforce a more organized and stable structure of the javascript code.
