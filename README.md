@@ -17,8 +17,6 @@ The WordPress Plugin Boilerplate includes the following files:
 * Namespaced structure: there is no need to rename the files anymore.
 * Gulp, sass, browserify support. There is a "build task" also included.
 * Browserify enforce a more organized and stable structure of the javascript code.
-* class-plugin, class-admin and class-public are now more deeply connected, with class-plugin in the middle. You can access them from the loader.
-* Some of the redundant variables (as plugin_name, version...) are now centralized in class-plugin.
 * PSR-4 Support
 
 ## Installation
@@ -68,10 +66,4 @@ For reference, [here's a discussion](http://make.wordpress.org/themes/2013/03/04
 
 ### Structure
 
-* `plugin-name/src/includes` is where functionality shared between the admin area and the public-facing parts of the site reside
-* `plugin-name/src/admin` is for all admin-specific functionality
-* `plugin-name/src/frontend` is for all public-facing functionality
-* `plugin-name/assets` is for all assets (frontend and backend)
-* `plugin-name/assets/vendors` is a bower-ready folder
-* `plugin-name/vendors` is a composer-ready folder
-* `plugin-name/builds` is where all builds goes to
+todo.
