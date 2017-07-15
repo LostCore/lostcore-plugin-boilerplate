@@ -13,7 +13,6 @@ The WordPress Plugin Boilerplate includes the following files:
 
 ## Features
 
-* Namespaced structure: there is no need to rename the files anymore.
 * Gulp, sass, browserify support. There is a "build task" also included.
 * Browserify enforce a more organized and stable structure of the javascript code.
 * PSR-4 Support
