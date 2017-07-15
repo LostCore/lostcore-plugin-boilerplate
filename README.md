@@ -1,0 +1,1 @@
+# lostrcore-plugin-boilerplate
